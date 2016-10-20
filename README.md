@@ -2,7 +2,7 @@
 
 Implementation of Authorize and Mark for Capture using the Orbital Gateway XML Interface v5.8
 
-[http://download.chasepaymentech.com/ "Chase Paymentech"]
+[Chase Paymentech] (http://download.chasepaymentech.com/ "Chase Paymentech")
 
 ### Usage
 ```
